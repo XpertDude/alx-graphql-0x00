@@ -1,4 +1,4 @@
-{
+query{
  episode(id : 2) {
   id,
   name,
